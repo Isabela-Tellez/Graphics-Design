@@ -1,0 +1,65 @@
+Informe creado: 
+	18/04/2023	23:27:05
+
+Nombre del proyecto: Animatica.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\isate\OneDrive\Escritorio\Fundación Obicex (IMPLIKA)\ARTE\2do Semestre\Animática\Animatica carpeta
+
+Archivos de origen recopilados: Todo
+
+Comp. recopiladas:  
+	Animatica
+	
+Número de archivos recopilados: 43
+
+Tamaño de los archivos recopilados: 48,0 MB
+
+Archivos de origen recopilados: 
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 1\Ciudad.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 2\Camara.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 3\Bus-removebg-preview_(1)-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 3\Parada (1).png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 3\señal-removebg-preview-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 3\zx.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 4\Bed.PNG
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 4\prota_sleep-removebg-preview-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 5\Portal-vBL_YtCXUy-transformed-removebg-preview_(1)-transformed-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 5\Portal-vBL_YtCXUy-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 6\Caida-removebg-preview-transformed-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 6\Cielo-transformed.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 7\lamia.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Imágenes\Escena 7\puevlo.png
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 1\People talking in the street. Sound effect free download. 320 kbps..mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 1\Tráfico en la ciudad - Efectos de Sonido.mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 2\Camera Auto Focus Sound Effect  - Camera Photo Sound Effect.mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 3\Bus pulling into bus stop sound effect - realsoundFX.mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 4\Snoring - Sound Effect.mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Efectos\Escena 5\Portal Sound Effect (SFX).mp3
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 2\vocodes_0617e65b-7825-4862-91a5-bbbdadec8fa5.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 2\vocodes_54b4752b-8413-41f9-926e-23f86be262b7.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 2\vocodes_7e87244f-eb93-46ed-b353-7d311ceaf5f0.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 2\vocodes_f696a530-0507-4ef8-8421-0e6378af8901.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 3\vocodes_226d1ce0-2ecf-426c-8654-fd4f3dce8b4c.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 3\vocodes_4ac1d351-cdd2-4a5e-bce4-3d8dff0ad9aa.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 3\vocodes_b366cf78-6740-49ba-ace1-39034fa18a1f.wav
+	C:\Users\isate\Downloads\Animatica carpeta (1)-20230418T124554Z-001\Animatica carpeta (1)\(Material de archivo)\Sonidos\Voces\Escena 4\vocodes_7ca374d0-0425-4496-a6b6-8a106703d4c6.wav
+	C:\Users\isate\Downloads\Bosque - Efecto de Sonido.mp3
+	C:\Users\isate\Downloads\Bosque.png
+	C:\Users\isate\Downloads\Chica_Pueblo.png
+	C:\Users\isate\Downloads\chino-removebg-preview-transformed-transformed.png
+	C:\Users\isate\Downloads\Música Bosque Mágico Instrumental│Música instrumental relajante.mp3
+	C:\Users\isate\Downloads\Prota.png
+	C:\Users\isate\Downloads\vocodes_0c9e7af3-0df7-4c1e-8751-b83e233881a7.wav
+	C:\Users\isate\Downloads\vocodes_2080a5b7-4b01-41ce-9924-239ab57ae444.wav
+	C:\Users\isate\Downloads\vocodes_2505934a-2c0a-4efc-b6cc-d55e1457651a.wav
+	C:\Users\isate\Downloads\vocodes_362de3c3-5735-45ba-b177-b7fb89abf500.wav
+	C:\Users\isate\Downloads\vocodes_8da0e9e0-d834-4636-9126-2640baad9e23.wav
+	C:\Users\isate\Downloads\vocodes_a9095c04-f411-4664-a8bc-d6e730906d51.wav
+	C:\Users\isate\Downloads\vocodes_ef5dfd8c-4281-4b55-885c-5e4edb483a29.wav
+	C:\Users\isate\Downloads\Wind Sound FX.mp3
+	C:\Users\isate\Videos\Captures\(192) Uncharted 4 mutiplayer falling death screams all characters - YouTube y 5 páginas más - Personal_ Microsoft​ Edge 2023-04-18 19-59-28.mp4
+	
+Procesando plugins:
+	Classic 3D
+	
